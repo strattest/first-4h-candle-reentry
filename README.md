@@ -40,7 +40,7 @@ All results are in R, where 1R is the amount risked on a trade, and are shown be
 
 With the same position size on every trade (100,000 euros on EURUSD, 100 ounces of gold, 1 Bitcoin), the totals before costs were **+$2,661 on Bitcoin, −$4,171 on EURUSD and +$23,963 on gold**.
 
-These figures depend heavily on a small number of trades with very wide stops, and on how far prices moved over the period, so they should not be read as an edge. Trading costs would also outweigh them. At a typical retail gold spread of $0.20 to $0.30 per ounce, the spread alone on 3,139 trades of 100 ounces comes to roughly $60,000 to $95,000.
+These figures depend heavily on a small number of trades with very wide stops, and on how far prices moved over the period, so they should not be read as an edge. Trading costs can also effect the prices
 
 ![Cumulative P&L in dollars](plots/equity_curve_usd.png)
 
