@@ -2,7 +2,7 @@
 
 ### A strattest research study
 
-We took a popular YouTube scalping strategy, turned it into exact rules, and tested it on six years of 5-minute data across EURUSD, gold and Bitcoin. Traded as presented, the strategy shows no edge.
+We took a popular YouTube scalping strategy, turned it into exact rules, and tested it on six years of 5-minute data across EURUSD, gold and Bitcoin. Traded as presented, the strategy shows no edge, but resuts are worth a closer look.
 
 ## The strategy
 
