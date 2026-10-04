@@ -87,9 +87,13 @@ The full rulebook and a decision log, with the reason behind every choice, are i
 
 ## About strattest
 
-strattest takes trading strategies shared online, turns them into clear rules, and tests them against years of historical data, so traders can see what actually happened.
+Every trader has rules, but most of them live in their head or on a chart. strattest takes your strategy, works through it with you until every rule is clear and testable, and then tests it against years of historical data.
 
-Have a strategy you'd like tested? Visit [strattest.app](https://strattest.app).
+You get to see how your strategy actually behaves: how often it trades, how often it wins, how deep the drawdowns go, and whether the results hold up across markets and over time. Every decision we make along the way is written down, so you know exactly what was tested.
+
+This study is an example of that process.
+
+**Want your strategy tested?** Visit [strattest.app](https://strattest.app).
 
 ---
 
